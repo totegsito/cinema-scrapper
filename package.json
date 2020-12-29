@@ -1,0 +1,20 @@
+{
+  "name": "cinema-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Easybuoy/package.json-mastery.git"
+  },
+  "keywords": [],
+  "author": "Fran Quesada",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5"
+  }
+}
